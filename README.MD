@@ -1,6 +1,7 @@
 # Equipo <Triple A>
 Proyecto final - Fundamentos de Construcción de Software 
 ## Integrantes
+
 - Andres Ricardo Puerto Sierra
 - Brandon Andres Plazas Sanchez
 - Nicolas Andres Jimenez Rodriguez
