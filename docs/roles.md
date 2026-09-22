@@ -4,10 +4,10 @@
 "brando <baplazas@ucompensar.edu.co>" -m "guardian"
 
 
-
-pruebas
-se logro??
-o
-no??
+# Roles de equipo
+Rol                      Responsable
+Lider                    Brandon Plazas
+Desarrollo               Nicolas Jimenez
+Pruebas/Documentacion    Andres Puerto   
 
 
