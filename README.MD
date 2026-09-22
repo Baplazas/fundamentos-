@@ -10,3 +10,8 @@ Proyecto final - Fundamentos de Construcción de Software
 Plataforma Inteligente de Gestión Comercial y Atención al Cliente   
 
 
+
+## Cómo trabajamos
+-	Roles: docs/roles.md
+-	Acuerdos: docs/acuerdos.md
+-	Tareas: docs/backlog.md
