@@ -8,7 +8,5 @@ Proyecto final - Fundamentos de Construcción de Software
 
 ## Proyecto
 Plataforma Inteligente de Gestión Comercial y Atención al Cliente   
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
+

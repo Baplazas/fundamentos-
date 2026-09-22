@@ -5,9 +5,10 @@
 
 
 # Roles de equipo
-Rol                      Responsable
-Lider                    Brandon Plazas
-Desarrollo               Nicolas Jimenez
-Pruebas/Documentacion    Andres Puerto   
 
-
+| Rol           | Responsable      |
+|---------------|------------------|
+| Líder         | Brandon Plazas   |
+| Desarrollo    | Nicolas Jimenez  |
+| Pruebas       | Andres Puerto    |
+| Documentación | Andres Puerto    |
